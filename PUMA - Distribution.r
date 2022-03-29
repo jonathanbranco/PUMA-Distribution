@@ -55,4 +55,4 @@
   map
 
 #exporting map
-saveWidget(map, "PUMA - Distribution.html")
+saveWidget(map, "Resulting map.html")
