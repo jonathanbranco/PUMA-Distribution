@@ -1,0 +1,782 @@
+Our_ID,Species,City_Name,State_ID,Day,Month,Year,State_Name,Latitude,Longitude
+1,Progne chalybea,Açailândia,MA,10,4,2013,Maranhão,-4.951377,-47.50666459
+2,Progne subis,Alta Floresta,MT,14,9,2005,Mato Grosso,-9.871722597,-56.09161044
+3,Progne subis,Alta Floresta,MT,2,12,2017,Mato Grosso,-9.871722597,-56.09161044
+4,Progne subis,Alta Floresta,MT,8,2,2013,Mato Grosso,-9.871722597,-56.09161044
+5,Progne subis,Alta Floresta,MT,15,11,2013,Mato Grosso,-9.871722597,-56.09161044
+6,Progne subis,Altamira,PA,5,2,2017,Pará,-3.20565951,-52.21437631
+7,NID,Altamira,PA,18,7,2018,Pará,-3.20565951,-52.21437631
+8,NID,Anapu,PA,19,1,2017,Pará,-3.476104635,-51.2016218
+9,Progne subis,Angra dos Reis,RJ,28,1,2012,Rio de Janeiro,-23.00911594,-44.31962726
+10,Progne subis,Apiacás,MT,15,11,2013,Mato Grosso,-9.565495169,-57.39540224
+11,Progne subis,Apiacás,MT,11,12,2017,Mato Grosso,-9.565495169,-57.39540224
+12,Progne subis,Apiacás,MT,15,11,2013,Mato Grosso,-9.565495169,-57.39540224
+13,Progne subis,Apiacás,MT,20,11,2013,Mato Grosso,-9.565495169,-57.39540224
+14,Progne subis,Apiacás,MT,16,11,2013,Mato Grosso,-9.565495169,-57.39540224
+15,Progne subis,Apucarana,PR,2,3,2014,Paraná,-23.55159299,-51.45998514
+16,Progne subis,Apucarana,PR,5,4,2014,Paraná,-23.55159299,-51.45998514
+17,Progne subis,Apucarana,PR,9,4,2014,Paraná,-23.55159299,-51.45998514
+18,Progne subis,Apucarana,PR,2,3,2014,Paraná,-23.55159299,-51.45998514
+19,Progne subis,Apucarana,PR,2,3,2014,Paraná,-23.55159299,-51.45998514
+20,Progne subis,Apucarana,PR,1,3,2015,Paraná,-23.55159299,-51.45998514
+21,Progne subis,Apucarana,PR,28,2,2014,Paraná,-23.55159299,-51.45998514
+22,Progne subis,Apucarana,PR,13,1,2017,Paraná,-23.55159299,-51.45998514
+23,Progne subis,Apucarana,PR,2,3,2014,Paraná,-23.55159299,-51.45998514
+24,Progne subis,Apucarana,PR,14,3,2014,Paraná,-23.55159299,-51.45998514
+25,Progne subis,Apucarana,PR,11,4,2014,Paraná,-23.55159299,-51.45998514
+26,Progne subis,Apucarana,PR,11,4,2014,Paraná,-23.55159299,-51.45998514
+27,Progne subis,Apucarana,PR,21,2,2016,Paraná,-23.55159299,-51.45998514
+28,Progne subis,Apucarana,PR,7,2,2015,Paraná,-23.55159299,-51.45998514
+29,Progne subis,Apucarana,PR,2,3,2014,Paraná,-23.55159299,-51.45998514
+30,NID,Apucarana,PR,12,1,2013,Paraná,-23.55159299,-51.45998514
+31,Progne subis,Apucarana,PR,12,4,2014,Paraná,-23.55159299,-51.45998514
+32,Progne subis,Apucarana,PR,28,2,2014,Paraná,-23.55159299,-51.45998514
+33,Progne subis,Aracruz,ES,23,3,2014,Espírito Santo,-19.82327774,-40.27622338
+34,NID,Aracruz,ES,2,2,2013,Espírito Santo,-19.82327774,-40.27622338
+35,Progne subis,Aracruz,ES,9,1,2015,Espírito Santo,-19.82327774,-40.27622338
+36,Progne subis,Araguaína,TO,5,12,2013,Tocantins,-7.19132894,-48.20870525
+37,Progne subis,Araripe,CE,1,3,2017,Ceará,-7.206183789,-40.13744581
+38,Progne subis,Araripe,CE,16,2,2017,Ceará,-7.206183789,-40.13744581
+39,Progne subis,Araripe,CE,21,1,2018,Ceará,-7.206183789,-40.13744581
+40,Progne subis,Araripe,CE,1,3,2017,Ceará,-7.206183789,-40.13744581
+41,Progne subis,Aripuanã,MT,7,3,2018,Mato Grosso,-10.1725237,-59.44861638
+42,Progne subis,Arraias,TO,27,10,2016,Tocantins,-12.93441986,-46.94610706
+43,Progne subis,Assaré,CE,22,2,2017,Ceará,-6.872607112,-39.87127475
+44,Progne subis,Bandeirantes do Tocantins,TO,16,3,2012,Tocantins,-7.764859141,-48.5783806
+45,Progne subis,Barão de Melgaço,MT,9,12,2011,Mato Grosso,-16.19509945,-55.96712113
+46,,Barbalha,CE,24,2,2017,Ceará,-7.307172127,-39.30231637
+47,,Belterra,PA,27,11,2010,Pará,-2.649020169,-54.94267474
+48,,Boa Vista,RR,19,9,2018,Roraima,2.816681919,-60.67053267
+49,,Brejo Santo,CE,13,4,2014,Ceará,-7.491638009,-38.98551387
+50,,Brejo Santo,CE,15,4,2015,Ceará,-7.491638009,-38.98551387
+51,,Cabo Frio,RJ,11,10,2015,Rio de Janeiro,-22.88076467,-42.0200748
+52,,Cáceres,MT,20,12,2017,Mato Grosso,-16.07409563,-57.67476231
+53,,Cachoeira,BA,3,1,2008,Bahia,-12.5962108,-38.96939807
+54,,Cachoeira,BA,3,1,2008,Bahia,-12.5962108,-38.96939807
+55,,Camacan,BA,13,3,2017,Bahia,-15.41762685,-39.49636733
+56,,Camacan,BA,6,2,2013,Bahia,-15.41762685,-39.49636733
+57,,Camamu,BA,10,10,2011,Bahia,-13.94707634,-39.10056972
+58,,Camamu,BA,10,10,2011,Bahia,-13.94707634,-39.10056972
+59,,Campo Grande,MS,22,11,2013,Mato Grosso do Sul,-20.45802999,-54.61574357
+60,,Canutama,AM,15,5,2016,Amazonas,-6.529106076,-64.39423082
+61,,Careiro,AM,26,1,2018,Amazonas,-3.82244727,-60.36380984
+62,,Careiro,AM,3,3,2012,Amazonas,-3.82244727,-60.36380984
+63,,Careiro,AM,3,3,2012,Amazonas,-3.82244727,-60.36380984
+64,,Careiro,AM,27,8,2016,Amazonas,-3.82244727,-60.36380984
+65,,Careiro,AM,22,12,2017,Amazonas,-3.82244727,-60.36380984
+66,,Careiro da Várzea,AM,9,4,2016,Amazonas,-3.197396595,-59.82631406
+67,,Careiro da Várzea,AM,9,4,2016,Amazonas,-3.197396595,-59.82631406
+68,,Careiro da Várzea,AM,5,8,2018,Amazonas,-3.197396595,-59.82631406
+69,,Cariacica,ES,5,2,2013,Espírito Santo,-20.2946778,-40.3905591
+70,,Cascavel,PR,24,12,2016,Paraná,-24.9537975,-53.45972218
+71,,Caseara,TO,20,10,2006,Tocantins,-9.267406219,-49.94869227
+72,,Caseara,TO,14,12,2006,Tocantins,-9.267406219,-49.94869227
+73,,Caseara,TO,28,11,2012,Tocantins,-9.267406219,-49.94869227
+74,,Caseara,TO,20,12,2006,Tocantins,-9.267406219,-49.94869227
+75,,Caseara,TO,28,11,2005,Tocantins,-9.267406219,-49.94869227
+76,,Chapada de Areia,TO,5,10,2014,Tocantins,-10.14198858,-49.18310786
+77,,Chaves,PA,19,3,2018,Pará,-0.16243729,-49.98931861
+78,,Coari,AM,8,3,2017,Amazonas,-4.084219159,-63.14218398
+79,,Colíder,MT,16,8,2018,Mato Grosso,-10.80408978,-55.46423054
+80,,Conceição,PB,28,1,2015,Paraíba,-7.560225087,-38.50915796
+81,,Conceição,PB,28,1,2015,Paraíba,-7.560225087,-38.50915796
+82,,Conceição,PB,13,3,2018,Paraíba,-7.560225087,-38.50915796
+83,,Conceição,PB,14,1,2014,Paraíba,-7.560225087,-38.50915796
+84,,Conceição,PB,13,3,2018,Paraíba,-7.560225087,-38.50915796
+85,,Conceição da Barra,ES,2,11,2016,Espírito Santo,-18.5984623,-39.72747442
+86,,Conceição da Barra,ES,11,3,2011,Espírito Santo,-18.5984623,-39.72747442
+87,,Conceição da Barra,ES,12,1,2011,Espírito Santo,-18.5984623,-39.72747442
+88,,Conceição da Barra,ES,30,4,2014,Espírito Santo,-18.5984623,-39.72747442
+89,,Conceição da Barra,ES,25,1,2009,Espírito Santo,-18.5984623,-39.72747442
+90,,Conceição da Barra,ES,8,3,2018,Espírito Santo,-18.5984623,-39.72747442
+91,,Conceição da Barra,ES,12,1,2011,Espírito Santo,-18.5984623,-39.72747442
+92,,Conceição da Barra,ES,8,3,2018,Espírito Santo,-18.5984623,-39.72747442
+93,,Conceição da Barra,ES,2,4,2015,Espírito Santo,-18.5984623,-39.72747442
+94,,Conceição da Barra,ES,25,1,2009,Espírito Santo,-18.5984623,-39.72747442
+95,,Conceição da Barra,ES,2,4,2015,Espírito Santo,-18.5984623,-39.72747442
+96,,Conceição da Barra,ES,25,1,2009,Espírito Santo,-18.5984623,-39.72747442
+97,,Conceição da Barra,ES,8,3,2018,Espírito Santo,-18.5984623,-39.72747442
+98,,Conceição da Barra,ES,3,4,2015,Espírito Santo,-18.5984623,-39.72747442
+99,,Conceição da Barra,ES,8,3,2018,Espírito Santo,-18.5984623,-39.72747442
+100,,Crato,CE,2,3,2017,Ceará,-7.23175279,-39.4083903
+101,,Cruzeiro do Sul,AC,24,8,2018,Acre,-7.630690005,-72.67253132
+102,,Cruzeiro do Sul,AC,26,4,2014,Acre,-7.630690005,-72.67253132
+103,,Cruzeiro do Sul,AC,24,8,2018,Acre,-7.630690005,-72.67253132
+104,,Cruzeiro do Sul,AC,24,8,2018,Acre,-7.630690005,-72.67253132
+105,,Cruzeiro do Sul,AC,17,7,2018,Acre,-7.630690005,-72.67253132
+106,,Cruzeiro do Sul,AC,9,10,2017,Acre,-7.630690005,-72.67253132
+107,,Cruzeiro do Sul,AC,6,11,2014,Acre,-7.630690005,-72.67253132
+108,,Cruzeiro do Sul,AC,24,8,2018,Acre,-7.630690005,-72.67253132
+109,,Cujubim,RO,8,10,2011,Rondônia,-9.378193399,-62.58717453
+110,,Eusébio,CE,27,12,2017,Ceará,-3.886972887,-38.44512184
+111,,Exu,PE,11,1,2010,Pernambuco,-7.516307,-39.72272834
+112,,Exu,PE,1,3,2017,Pernambuco,-7.516307,-39.72272834
+113,,Feliz Natal,MT,30,4,2018,Mato Grosso,-12.38324703,-54.93390407
+114,,Feliz Natal,MT,30,4,2018,Mato Grosso,-12.38324703,-54.93390407
+115,,Fortaleza,CE,1,10,2014,Ceará,-3.723805035,-38.58992756
+116,,Fronteira,MG,15,9,2012,Minas Gerais,-20.28830056,-49.20428203
+117,,Guapimirim,RJ,14,2,2014,Rio de Janeiro,-22.51959579,-42.9783297
+118,,Guatapará,SP,8,2,2016,São Paulo,-21.49189465,-48.03772936
+119,,Guatapará,SP,15,4,2017,São Paulo,-21.49189465,-48.03772936
+120,,Guatapará,SP,15,4,2017,São Paulo,-21.49189465,-48.03772936
+121,,Guatapará,SP,8,2,2016,São Paulo,-21.49189465,-48.03772936
+122,,Guatapará,SP,23,2,2018,São Paulo,-21.49189465,-48.03772936
+123,Progne subis,Guatapará,SP,27,2,2018,São Paulo,-21.49189465,-48.03772936
+124,Progne subis,Guatapará,SP,24,3,2018,São Paulo,-21.49189465,-48.03772936
+125,Progne subis,Guatapará,SP,23,2,2018,São Paulo,-21.49189465,-48.03772936
+126,Progne subis,Guatapará,SP,2,4,2017,São Paulo,-21.49189465,-48.03772936
+127,Progne subis,Guatapará,SP,8,2,2016,São Paulo,-21.49189465,-48.03772936
+128,Progne subis,Guatapará,SP,2,4,2017,São Paulo,-21.49189465,-48.03772936
+129,Progne subis,Guatapará,SP,2,4,2017,São Paulo,-21.49189465,-48.03772936
+130,Progne subis,Guatapará,SP,23,2,2018,São Paulo,-21.49189465,-48.03772936
+131,Progne subis,Guatapará,SP,8,2,2016,São Paulo,-21.49189465,-48.03772936
+132,Progne subis,Guatapará,SP,3,2,2018,São Paulo,-21.49189465,-48.03772936
+133,Progne subis,Guatapará,SP,8,2,2016,São Paulo,-21.49189465,-48.03772936
+134,Progne subis,Guatapará,SP,8,2,2016,São Paulo,-21.49189465,-48.03772936
+135,Progne subis,Guatapará,SP,3,2,2018,São Paulo,-21.49189465,-48.03772936
+136,Progne subis,Guatapará,SP,3,2,2018,São Paulo,-21.49189465,-48.03772936
+137,Progne subis,Guatapará,SP,8,2,2016,São Paulo,-21.49189465,-48.03772936
+138,Progne subis,Guatapará,SP,8,2,2016,São Paulo,-21.49189465,-48.03772936
+139,Progne subis,Guatapará,SP,23,2,2018,São Paulo,-21.49189465,-48.03772936
+140,Progne subis,Humaitá,AM,30,11,2011,Amazonas,-7.512224951,-63.02669802
+141,Progne subis,Ibirapitanga,BA,25,10,2013,Bahia,-14.1650325,-39.37446653
+142,Progne subis,Ilhéus,BA,23,4,2017,Bahia,-14.79332027,-39.04318429
+143,Progne subis,Ilhéus,BA,28,1,2017,Bahia,-14.79332027,-39.04318429
+144,Progne subis,Ilhéus,BA,28,1,2017,Bahia,-14.79332027,-39.04318429
+145,Progne subis,Ilhéus,BA,28,1,2017,Bahia,-14.79332027,-39.04318429
+146,Progne subis,Ilhéus,BA,28,1,2017,Bahia,-14.79332027,-39.04318429
+147,Progne subis,Imperatriz,MA,7,3,2016,Maranhão,-5.526524025,-47.47981081
+148,Progne subis,Inhangapi,PA,7,2,2014,Pará,-1.426581981,-47.91339275
+149,Progne subis,Inhangapi,PA,7,2,2014,Pará,-1.426581981,-47.91339275
+150,Elegans ou Chalybea,Iranduba,AM,22,8,2018,Amazonas,-3.281053878,-60.19338817
+151,Progne subis,Iranduba,AM,5,2,2012,Amazonas,-3.281053878,-60.19338817
+152,Elegans ou Chalybea,Iranduba,AM,2,6,2016,Amazonas,-3.281053878,-60.19338817
+153,Progne subis,Iranduba,AM,28,1,2017,Amazonas,-3.281053878,-60.19338817
+154,Elegans,Iranduba,AM,21,9,2014,Amazonas,-3.281053878,-60.19338817
+155,Elegans,Iranduba,AM,15,9,2015,Amazonas,-3.281053878,-60.19338817
+156,Progne subis,Iranduba,AM,22,3,2017,Amazonas,-3.281053878,-60.19338817
+157,Progne subis,Iranduba,AM,28,1,2017,Amazonas,-3.281053878,-60.19338817
+158,Progne subis,Iranduba,AM,13,2,2014,Amazonas,-3.281053878,-60.19338817
+159,Progne subis,Iranduba,AM,15,9,2015,Amazonas,-3.281053878,-60.19338817
+160,Progne subis,Iranduba,AM,9,10,2014,Amazonas,-3.281053878,-60.19338817
+161,Progne subis,Iranduba,AM,22,4,2014,Amazonas,-3.281053878,-60.19338817
+162,Progne subis,Iranduba,AM,6,11,2011,Amazonas,-3.281053878,-60.19338817
+163,Progne subis,Iranduba,AM,9,9,2017,Amazonas,-3.281053878,-60.19338817
+164,NID,Iranduba,AM,23,7,2015,Amazonas,-3.281053878,-60.19338817
+165,Progne subis,Iranduba,AM,22,8,2018,Amazonas,-3.281053878,-60.19338817
+166,Progne subis,Iranduba,AM,18,10,2015,Amazonas,-3.281053878,-60.19338817
+167,Progne subis,Iranduba,AM,7,4,2013,Amazonas,-3.281053878,-60.19338817
+168,Progne subis,Iranduba,AM,28,12,2016,Amazonas,-3.281053878,-60.19338817
+169,Progne subis,Iranduba,AM,26,2,2017,Amazonas,-3.281053878,-60.19338817
+170,Progne subis,Iranduba,AM,6,11,2011,Amazonas,-3.281053878,-60.19338817
+171,Progne subis,Iranduba,AM,18,8,2015,Amazonas,-3.281053878,-60.19338817
+172,NID,Iranduba,AM,28,12,2016,Amazonas,-3.281053878,-60.19338817
+173,Progne subis,Iranduba,AM,4,2,2017,Amazonas,-3.281053878,-60.19338817
+174,NID,Iranduba,AM,21,9,2014,Amazonas,-3.281053878,-60.19338817
+175,NID,Iranduba,AM,2,8,2016,Amazonas,-3.281053878,-60.19338817
+176,Progne subis,Iranduba,AM,6,11,2011,Amazonas,-3.281053878,-60.19338817
+177,NID,Iranduba,AM,2,8,2016,Amazonas,-3.281053878,-60.19338817
+178,NID,Iranduba,AM,9,9,2017,Amazonas,-3.281053878,-60.19338817
+179,NID,Iranduba,AM,17,7,2014,Amazonas,-3.281053878,-60.19338817
+180,NID,Iranduba,AM,1,9,2013,Amazonas,-3.281053878,-60.19338817
+181,Progne subis,Iranduba,AM,2,2,2014,Amazonas,-3.281053878,-60.19338817
+182,Elegans,Iranduba,AM,21,4,2014,Amazonas,-3.281053878,-60.19338817
+183,NID,Iranduba,AM,3,10,2017,Amazonas,-3.281053878,-60.19338817
+184,NID,Iranduba,AM,15,9,2015,Amazonas,-3.281053878,-60.19338817
+185,Progne subis,Iranduba,AM,22,3,2017,Amazonas,-3.281053878,-60.19338817
+186,Progne subis,Iranduba,AM,5,2,2012,Amazonas,-3.281053878,-60.19338817
+187,Progne subis,Iranduba,AM,6,11,2011,Amazonas,-3.281053878,-60.19338817
+188,NID,Iranduba,AM,22,8,2013,Amazonas,-3.281053878,-60.19338817
+189,NID,Iranduba,AM,27,9,2015,Amazonas,-3.281053878,-60.19338817
+190,NID,Iranduba,AM,23,8,2017,Amazonas,-3.281053878,-60.19338817
+191,NID,Iranduba,AM,27,9,2015,Amazonas,-3.281053878,-60.19338817
+192,NID,Iranduba,AM,6,4,2014,Amazonas,-3.281053878,-60.19338817
+193,NID,Iranduba,AM,9,9,2017,Amazonas,-3.281053878,-60.19338817
+194,NID,Iranduba,AM,2,6,2016,Amazonas,-3.281053878,-60.19338817
+195,Progne subis,Iranduba,AM,28,12,2016,Amazonas,-3.281053878,-60.19338817
+196,Progne subis,Iranduba,AM,28,12,2016,Amazonas,-3.281053878,-60.19338817
+197,NID,Iranduba,AM,21,4,2014,Amazonas,-3.281053878,-60.19338817
+198,Progne subis,Iranduba,AM,6,11,2011,Amazonas,-3.281053878,-60.19338817
+199,NID,Iranduba,AM,23,8,2017,Amazonas,-3.281053878,-60.19338817
+200,Progne subis,Iranduba,AM,6,11,2011,Amazonas,-3.281053878,-60.19338817
+201,NID,Iranduba,AM,19,9,2015,Amazonas,-3.281053878,-60.19338817
+202,NID,Iranduba,AM,8,8,2014,Amazonas,-3.281053878,-60.19338817
+203,Progne subis,Itacaré,BA,21,3,2009,Bahia,-14.27824929,-38.99484155
+204,NID,Itacaré,BA,17,4,2018,Bahia,-14.27824929,-38.99484155
+205,NID,Itacaré,BA,5,4,2010,Bahia,-14.27824929,-38.99484155
+206,NID,Itacoatiara,AM,15,9,2014,Amazonas,-3.140378804,-58.44017544
+207,Progne subis,Itacoatiara,AM,13,1,2014,Amazonas,-3.140378804,-58.44017544
+208,Progne subis,Itaguaçu da Bahia,BA,4,1,2015,Bahia,-11.00872221,-42.40115712
+209,Progne subis,Itaguaçu da Bahia,BA,4,1,2015,Bahia,-11.00872221,-42.40115712
+210,NID,Itaguatins,TO,7,9,2015,Tocantins,-5.775385088,-47.47993595
+211,NID,Itapuã do Oeste,RO,7,10,2011,Rondônia,-9.191871675,-63.18233702
+212,Progne subis,Itaú de Minas,MG,25,12,2014,Minas Gerais,-20.73818939,-46.75295378
+213,Progne subis,Ituberá,BA,4,11,2008,Bahia,-13.73615691,-39.14904249
+214,NID,Jacareacanga,PA,22,9,2015,Pará,-6.223551731,-57.76633986
+215,,Jangada,MT,21,11,2013,Mato Grosso,-15.23968723,-56.49019456
+216,,João Neiva,ES,13,2,2017,Espírito Santo,-19.7529586,-40.38088049
+217,,Juarina,TO,7,1,2014,Tocantins,-8.117423968,-49.09864319
+218,,Juína,MT,18,1,2012,Mato Grosso,-11.42201803,-58.76221715
+219,,Juruena,MT,14,2,2018,Mato Grosso,-10.32911278,-58.49630917
+220,,Linhares,ES,9,4,2018,Espírito Santo,-19.39810593,-40.0653058
+221,,Linhares,ES,8,4,2014,Espírito Santo,-19.39810593,-40.0653058
+222,,Linhares,ES,18,11,2017,Espírito Santo,-19.39810593,-40.0653058
+223,,Linhares,ES,15,4,2017,Espírito Santo,-19.39810593,-40.0653058
+224,,Linhares,ES,6,12,2013,Espírito Santo,-19.39810593,-40.0653058
+225,,Linhares,ES,7,4,2016,Espírito Santo,-19.39810593,-40.0653058
+226,,Linhares,ES,21,12,2016,Espírito Santo,-19.39810593,-40.0653058
+227,,Linhares,ES,6,12,2013,Espírito Santo,-19.39810593,-40.0653058
+228,,Linhares,ES,18,11,2017,Espírito Santo,-19.39810593,-40.0653058
+229,,Linhares,ES,6,12,2013,Espírito Santo,-19.39810593,-40.0653058
+230,,Linhares,ES,11,2,2013,Espírito Santo,-19.39810593,-40.0653058
+231,,Linhares,ES,7,4,2016,Espírito Santo,-19.39810593,-40.0653058
+232,,Linhares,ES,6,12,2013,Espírito Santo,-19.39810593,-40.0653058
+233,,Luís Antônio,SP,4,3,2018,São Paulo,-21.55170653,-47.70027994
+234,,Luís Antônio,SP,4,3,2018,São Paulo,-21.55170653,-47.70027994
+235,,Luís Antônio,SP,2,3,2018,São Paulo,-21.55170653,-47.70027994
+236,,Luís Antônio,SP,4,3,2018,São Paulo,-21.55170653,-47.70027994
+237,,Luís Antônio,SP,4,3,2018,São Paulo,-21.55170653,-47.70027994
+238,,Luís Antônio,SP,27,2,2018,São Paulo,-21.55170653,-47.70027994
+239,,Luís Antônio,SP,27,2,2018,São Paulo,-21.55170653,-47.70027994
+240,,Luís Antônio,SP,4,3,2018,São Paulo,-21.55170653,-47.70027994
+241,NID,Luís Antônio,SP,27,2,2018,São Paulo,-21.55170653,-47.70027994
+242,,Luís Antônio,SP,4,3,2018,São Paulo,-21.55170653,-47.70027994
+243,,Luís Antônio,SP,2,3,2018,São Paulo,-21.55170653,-47.70027994
+244,,Luís Antônio,SP,2,3,2018,São Paulo,-21.55170653,-47.70027994
+245,,Luís Antônio,SP,2,3,2018,São Paulo,-21.55170653,-47.70027994
+246,,Luís Antônio,SP,2,3,2018,São Paulo,-21.55170653,-47.70027994
+247,,Macaé,RJ,2,2,2018,Rio de Janeiro,-22.36870497,-41.77506429
+248,,Macaé,RJ,22,4,2015,Rio de Janeiro,-22.36870497,-41.77506429
+249,,Macaé,RJ,19,1,2015,Rio de Janeiro,-22.36870497,-41.77506429
+250,NID,Macaé,RJ,25,4,2015,Rio de Janeiro,-22.36870497,-41.77506429
+251,NID,Macapá,AP,14,7,2011,Amapá,0.03895101,-51.05740546
+252,NID,Macapá,AP,25,7,2011,Amapá,0.03895101,-51.05740546
+253,,Manacapuru,AM,31,3,2017,Amazonas,-3.298278035,-60.62058945
+254,NID,Manacapuru,AM,26,9,2012,Amazonas,-3.298278035,-60.62058945
+255,,Manacapuru,AM,29,1,2012,Amazonas,-3.298278035,-60.62058945
+256,,Manacapuru,AM,31,3,2017,Amazonas,-3.298278035,-60.62058945
+257,,Manacapuru,AM,17,7,2014,Amazonas,-3.298278035,-60.62058945
+258,,Manacapuru,AM,9,10,2014,Amazonas,-3.298278035,-60.62058945
+259,,Manacapuru,AM,9,6,2017,Amazonas,-3.298278035,-60.62058945
+260,,Manacapuru,AM,20,5,2016,Amazonas,-3.298278035,-60.62058945
+261,,Manacapuru,AM,2,11,2017,Amazonas,-3.298278035,-60.62058945
+262,,Manacapuru,AM,21,9,2013,Amazonas,-3.298278035,-60.62058945
+263,,Manacapuru,AM,13,10,2017,Amazonas,-3.298278035,-60.62058945
+264,,Manacapuru,AM,23,9,2016,Amazonas,-3.298278035,-60.62058945
+265,,Manacapuru,AM,8,2,2014,Amazonas,-3.298278035,-60.62058945
+266,,Manacapuru,AM,17,7,2014,Amazonas,-3.298278035,-60.62058945
+267,,Manacapuru,AM,2,11,2017,Amazonas,-3.298278035,-60.62058945
+268,,Manacapuru,AM,3,12,2015,Amazonas,-3.298278035,-60.62058945
+269,,Manacapuru,AM,28,7,2017,Amazonas,-3.298278035,-60.62058945
+270,,Manaus,AM,15,3,2015,Amazonas,-3.134691491,-60.02333518
+271,,Manaus,AM,1,1,2014,Amazonas,-3.134691491,-60.02333518
+272,,Manaus,AM,12,2,2017,Amazonas,-3.134691491,-60.02333518
+273,,Manaus,AM,12,2,2017,Amazonas,-3.134691491,-60.02333518
+274,,Manaus,AM,15,3,2015,Amazonas,-3.134691491,-60.02333518
+275,,Manaus,AM,11,3,2017,Amazonas,-3.134691491,-60.02333518
+276,,Manaus,AM,12,4,2018,Amazonas,-3.134691491,-60.02333518
+277,,Manaus,AM,11,3,2017,Amazonas,-3.134691491,-60.02333518
+278,,Manaus,AM,13,2,2012,Amazonas,-3.134691491,-60.02333518
+279,,Manaus,AM,29,8,2018,Amazonas,-3.134691491,-60.02333518
+280,,Manaus,AM,29,8,2018,Amazonas,-3.134691491,-60.02333518
+281,,Manaus,AM,24,9,2017,Amazonas,-3.134691491,-60.02333518
+282,,Manaus,AM,11,3,2017,Amazonas,-3.134691491,-60.02333518
+283,,Manaus,AM,7,9,2011,Amazonas,-3.134691491,-60.02333518
+284,,Manaus,AM,24,4,2018,Amazonas,-3.134691491,-60.02333518
+285,,Manaus,AM,2,8,2016,Amazonas,-3.134691491,-60.02333518
+286,,Manaus,AM,1,9,2013,Amazonas,-3.134691491,-60.02333518
+287,,Manaus,AM,1,9,2013,Amazonas,-3.134691491,-60.02333518
+288,,Manaus,AM,1,9,2013,Amazonas,-3.134691491,-60.02333518
+289,,Manaus,AM,1,12,2017,Amazonas,-3.134691491,-60.02333518
+290,,Manaus,AM,12,4,2018,Amazonas,-3.134691491,-60.02333518
+291,,Manaus,AM,18,3,2018,Amazonas,-3.134691491,-60.02333518
+292,,Manaus,AM,10,10,2014,Amazonas,-3.134691491,-60.02333518
+293,,Marabá,PA,16,2,2015,Pará,-5.352605763,-49.14202533
+294,,Marabá,PA,13,2,2015,Pará,-5.352605763,-49.14202533
+295,,Marabá,PA,1,1,2017,Pará,-5.352605763,-49.14202533
+296,,Maricá,RJ,2,12,2017,Rio de Janeiro,-22.91695534,-42.81982411
+297,,Maricá,RJ,3,12,2017,Rio de Janeiro,-22.91695534,-42.81982411
+298,,Maricá,RJ,28,2,2017,Rio de Janeiro,-22.91695534,-42.81982411
+299,,Maricá,RJ,20,1,2015,Rio de Janeiro,-22.91695534,-42.81982411
+300,,Maricá,RJ,20,1,2015,Rio de Janeiro,-22.91695534,-42.81982411
+301,,Maricá,RJ,20,1,2015,Rio de Janeiro,-22.91695534,-42.81982411
+302,,Maricá,RJ,20,1,2015,Rio de Janeiro,-22.91695534,-42.81982411
+303,,Mazagão,AP,27,3,2018,Amapá,-0.124396329,-51.28607686
+304,,Moju,PA,19,1,2016,Pará,-1.885889,-48.76719913
+305,,Moju,PA,13,3,2013,Pará,-1.885889,-48.76719913
+306,,Monte Alegre,PA,9,2,2011,Pará,-2.003328,-54.07337473
+307,,Monte Horebe,PB,1,3,2015,Paraíba,-7.209526402,-38.58365749
+308,,Monte Horebe,PB,1,3,2015,Paraíba,-7.209526402,-38.58365749
+309,,Natividade da Serra,SP,28,10,2012,São Paulo,-23.37578698,-45.44640047
+310,,Novo Airão,AM,19,9,2017,Amazonas,-2.623432459,-60.94881071
+311,,Novo Airão,AM,29,8,2015,Amazonas,-2.623432459,-60.94881071
+312,,Novo Airão,AM,29,8,2015,Amazonas,-2.623432459,-60.94881071
+313,,Novo Airão,AM,17,7,2014,Amazonas,-2.623432459,-60.94881071
+314,,Novo Airão,AM,19,9,2017,Amazonas,-2.623432459,-60.94881071
+315,,Novo Airão,AM,22,9,2016,Amazonas,-2.623432459,-60.94881071
+316,,Novo Airão,AM,10,10,2014,Amazonas,-2.623432459,-60.94881071
+317,,Novo Airão,AM,19,9,2017,Amazonas,-2.623432459,-60.94881071
+318,,Novo Airão,AM,22,9,2016,Amazonas,-2.623432459,-60.94881071
+319,,Novo Mundo,MT,13,10,2015,Mato Grosso,-9.977109194,-55.17201893
+320,,Novo Progresso,PA,25,11,2015,Pará,-7.034835913,-55.41987012
+321,,Pão de Açúcar,AL,20,9,2016,Alagoas,-9.74704185,-37.43513886
+322,,Paranaíta,MT,5,12,2014,Mato Grosso,-9.669655499,-56.47889972
+323,,Paranaíta,MT,29,11,2014,Mato Grosso,-9.669655499,-56.47889972
+324,,Paranaíta,MT,5,12,2014,Mato Grosso,-9.669655499,-56.47889972
+325,,Paranaíta,MT,8,10,2017,Mato Grosso,-9.669655499,-56.47889972
+326,,Paranaíta,MT,20,11,2012,Mato Grosso,-9.669655499,-56.47889972
+327,,Paranaíta,MT,15,11,2013,Mato Grosso,-9.669655499,-56.47889972
+328,,Paranaíta,MT,30,11,2014,Mato Grosso,-9.669655499,-56.47889972
+329,,Paranaíta,MT,5,2,2013,Mato Grosso,-9.669655499,-56.47889972
+330,,Paraty,RJ,20,10,2017,Rio de Janeiro,-23.21941361,-44.7108585
+331,,Parauapebas,PA,12,3,2013,Pará,-6.072729888,-49.90078063
+332,,Parauapebas,PA,30,12,2016,Pará,-6.072729888,-49.90078063
+333,,Parauapebas,PA,28,10,2016,Pará,-6.072729888,-49.90078063
+334,,Parauapebas,PA,28,10,2016,Pará,-6.072729888,-49.90078063
+335,,Parauapebas,PA,11,10,2013,Pará,-6.072729888,-49.90078063
+336,,Parauapebas,PA,5,12,2010,Pará,-6.072729888,-49.90078063
+337,,Parauapebas,PA,24,3,2010,Pará,-6.072729888,-49.90078063
+338,,Parauapebas,PA,28,10,2016,Pará,-6.072729888,-49.90078063
+339,,Parintins,AM,20,9,2008,Amazonas,-2.627052586,-56.73629215
+340,,Paulo Afonso,BA,25,4,2014,Bahia,-9.403331697,-38.21832897
+341,,Paulo Afonso,BA,25,4,2014,Bahia,-9.403331697,-38.21832897
+342,,Penaforte,CE,6,2,2016,Ceará,-7.829914612,-39.07412752
+343,,Penaforte,CE,6,2,2016,Ceará,-7.829914612,-39.07412752
+344,,Penaforte,CE,6,2,2016,Ceará,-7.829914612,-39.07412752
+345,,Piracicaba,SP,14,10,2016,São Paulo,-22.723722,-47.64684624
+346,,Poconé,MT,12,2,2011,Mato Grosso,-16.25950947,-56.62650935
+347,,Poconé,MT,12,2,2011,Mato Grosso,-16.25950947,-56.62650935
+348,,Porto de Moz,PA,25,12,2016,Pará,-1.746090089,-52.24247692
+349,,Porto de Moz,PA,25,12,2016,Pará,-1.746090089,-52.24247692
+350,,Porto dos Gaúchos,MT,22,7,2017,Mato Grosso,-11.53384003,-57.40835384
+351,,Porto Velho,RO,1,12,2012,Rondônia,-8.76889179,-63.83144565
+352,,Porto Velho,RO,13,12,2013,Rondônia,-8.76889179,-63.83144565
+353,,Porto Velho,RO,7,1,2012,Rondônia,-8.76889179,-63.83144565
+354,,Porto Velho,RO,2,1,2012,Rondônia,-8.76889179,-63.83144565
+355,,Porto Velho,RO,3,2,2013,Rondônia,-8.76889179,-63.83144565
+356,,Porto Velho,RO,3,2,2013,Rondônia,-8.76889179,-63.83144565
+357,,Porto Velho,RO,19,9,2015,Rondônia,-8.76889179,-63.83144565
+358,,Porto Velho,RO,8,12,2012,Rondônia,-8.76889179,-63.83144565
+359,,Potengi,CE,22,1,2017,Ceará,-7.09017947,-40.03213254
+360,,Potengi,CE,5,5,2013,Ceará,-7.09017947,-40.03213254
+361,,Prado,BA,15,1,2018,Bahia,-17.32956399,-39.22923842
+362,,Presidente Figueiredo,AM,20,7,2014,Amazonas,-2.058429085,-60.02564683
+363,,Presidente Figueiredo,AM,10,10,2012,Amazonas,-2.058429085,-60.02564683
+364,,Presidente Figueiredo,AM,7,3,2016,Amazonas,-2.058429085,-60.02564683
+365,,Presidente Figueiredo,AM,8,3,2015,Amazonas,-2.058429085,-60.02564683
+366,,Presidente Figueiredo,AM,5,9,2017,Amazonas,-2.058429085,-60.02564683
+367,,Presidente Kennedy,TO,15,1,2010,Tocantins,-8.529960828,-48.50433067
+368,,Quixadá,CE,17,4,2017,Ceará,-4.9637,-39.01174468
+369,,Ribeirão Preto,SP,12,1,2012,São Paulo,-21.1848345,-47.80547592
+370,,Rio das Ostras,RJ,17,2,2018,Rio de Janeiro,-22.52394119,-41.93696713
+371,,Rio das Ostras,RJ,10,4,2017,Rio de Janeiro,-22.52394119,-41.93696713
+372,,Rio das Ostras,RJ,17,2,2018,Rio de Janeiro,-22.52394119,-41.93696713
+373,,Rio das Ostras,RJ,21,12,2017,Rio de Janeiro,-22.52394119,-41.93696713
+374,,Rio das Ostras,RJ,12,3,2015,Rio de Janeiro,-22.52394119,-41.93696713
+375,,Rio das Ostras,RJ,21,1,2018,Rio de Janeiro,-22.52394119,-41.93696713
+376,,Rio das Ostras,RJ,17,2,2018,Rio de Janeiro,-22.52394119,-41.93696713
+377,,Rolim de Moura,RO,9,4,2013,Rondônia,-11.72225891,-61.78578094
+378,Progne subis,Rolim de Moura,RO,21,3,2013,Rondônia,-11.72225891,-61.78578094
+379,NID,Rolim de Moura,RO,12,10,2011,Rondônia,-11.72225891,-61.78578094
+380,NID,Rolim de Moura,RO,21,3,2013,Rondônia,-11.72225891,-61.78578094
+381,Progne subis,Rolim de Moura,RO,22,2,2013,Rondônia,-11.72225891,-61.78578094
+382,NID,Rorainópolis,RR,18,9,2007,Roraima,0.937195394,-60.42506049
+383,NID,Rorainópolis,RR,11,10,2013,Roraima,0.937195394,-60.42506049
+384,Progne subis,Sairé,PE,26,2,2017,Pernambuco,-8.327613539,-35.71024777
+385,Progne subis,Salgueiro,PE,18,2,2016,Pernambuco,-8.070677522,-39.12085098
+386,NID,Salinas da Margarida,BA,29,4,2014,Bahia,-12.87799705,-38.75794395
+387,Progne chalybea,Santa Bárbara do Pará,PA,23,8,2016,Pará,-1.229439467,-48.29774065
+388,NID,Santa Leopoldina,ES,5,12,2014,Espírito Santo,-20.09889069,-40.53320961
+389,NID,Santa Leopoldina,ES,5,12,2014,Espírito Santo,-20.09889069,-40.53320961
+390,NID,Santa Leopoldina,ES,5,12,2014,Espírito Santo,-20.09889069,-40.53320961
+391,Progne elegans,Santa Rosa de Viterbo,SP,24,10,2015,São Paulo,-21.4852725,-47.36726893
+392,Progne subis,Santa Rosa de Viterbo,SP,3,1,2012,São Paulo,-21.4852725,-47.36726893
+393,Progne elegans,Santa Rosa de Viterbo,SP,24,10,2015,São Paulo,-21.4852725,-47.36726893
+394,Progne elegans,Santa Rosa de Viterbo,SP,24,10,2015,São Paulo,-21.4852725,-47.36726893
+395,Progne elegans,Santa Rosa de Viterbo,SP,24,10,2015,São Paulo,-21.4852725,-47.36726893
+396,Progne elegans,Santa Rosa de Viterbo,SP,24,10,2015,São Paulo,-21.4852725,-47.36726893
+397,NID,Santana do Araguaia,PA,4,2,2014,Pará,-9.329424525,-50.34480432
+398,NID,Santana do Araguaia,PA,4,2,2014,Pará,-9.329424525,-50.34480432
+399,NID,Santarém,PA,4,12,2017,Pará,-2.43621333,-54.71857017
+400,Progne elegans,Santarém,PA,15,8,2018,Pará,-2.43621333,-54.71857017
+401,Progne subis,São Carlos,SP,13,4,2016,São Paulo,-22.0159985,-47.88923768
+402,Progne subis,São Carlos,SP,13,4,2016,São Paulo,-22.0159985,-47.88923768
+403,Progne subis,São Carlos,SP,13,4,2016,São Paulo,-22.0159985,-47.88923768
+404,Progne subis,São Carlos,SP,13,4,2016,São Paulo,-22.0159985,-47.88923768
+405,Progne subis,São Carlos,SP,13,4,2016,São Paulo,-22.0159985,-47.88923768
+406,NID,São Desidério,BA,16,1,2018,Bahia,-12.36089549,-44.97409624
+407,Progne subis,São Félix do Xingu,PA,6,12,2017,Pará,-6.642483278,-51.99378252
+408,Progne subis,São Félix do Xingu,PA,6,12,2017,Pará,-6.642483278,-51.99378252
+409,NID,São Luís do Paraitinga,SP,11,11,2017,São Paulo,-23.22187151,-45.3095445
+410,Progne subis,São Mateus,ES,16,3,2018,Espírito Santo,-18.71844697,-39.8582006
+411,Progne subis,São Mateus,ES,9,4,2018,Espírito Santo,-18.71844697,-39.8582006
+412,Progne subis,São Mateus,ES,9,4,2018,Espírito Santo,-18.71844697,-39.8582006
+413,Progne subis,São Mateus,ES,9,4,2018,Espírito Santo,-18.71844697,-39.8582006
+414,Progne subis,São Mateus,ES,16,3,2018,Espírito Santo,-18.71844697,-39.8582006
+415,Progne elegans,São Miguel Arcanjo,SP,14,11,2010,São Paulo,-23.87949,-47.99558915
+416,Progne subis,São Pedro da Aldeia,RJ,28,4,2018,Rio de Janeiro,-22.83720319,-42.10352867
+417,Progne elegans,São Roque de Minas,MG,1,6,2013,Minas Gerais,-20.25067081,-46.36899493
+418,Progne elegans,São Roque de Minas,MG,22,8,2012,Minas Gerais,-20.25067081,-46.36899493
+419,Progne elegans,São Roque de Minas,MG,8,9,2012,Minas Gerais,-20.25067081,-46.36899493
+420,Progne elegans,São Roque de Minas,MG,7,9,2012,Minas Gerais,-20.25067081,-46.36899493
+421,Progne elegans,São Roque de Minas,MG,22,8,2012,Minas Gerais,-20.25067081,-46.36899493
+422,NID,São Roque de Minas,MG,11,11,2012,Minas Gerais,-20.25067081,-46.36899493
+423,Progne elegans,São Roque de Minas,MG,8,9,2012,Minas Gerais,-20.25067081,-46.36899493
+424,Progne subis,Saquarema,RJ,12,2,2013,Rio de Janeiro,-22.93112742,-42.49669405
+425,Progne subis,Saquarema,RJ,12,2,2013,Rio de Janeiro,-22.93112742,-42.49669405
+426,Progne subis,Serra,ES,6,1,2010,Espírito Santo,-20.15676984,-40.27521704
+427,NID,Serra,ES,5,1,2010,Espírito Santo,-20.15676984,-40.27521704
+428,Progne subis,Serra,ES,5,1,2010,Espírito Santo,-20.15676984,-40.27521704
+429,NID,Sinop,MT,5,11,2017,Mato Grosso,-11.85800531,-55.500922
+430,NID,Sinop,MT,16,11,2017,Mato Grosso,-11.85800531,-55.500922
+431,NID,Sinop,MT,9,11,2014,Mato Grosso,-11.85800531,-55.500922
+432,NID,Sinop,MT,16,11,2017,Mato Grosso,-11.85800531,-55.500922
+433,NID,Sinop,MT,18,11,2015,Mato Grosso,-11.85800531,-55.500922
+434,NID,Sinop,MT,16,11,2017,Mato Grosso,-11.85800531,-55.500922
+435,NID,Sinop,MT,5,11,2017,Mato Grosso,-11.85800531,-55.500922
+436,NID,Sinop,MT,11,11,2017,Mato Grosso,-11.85800531,-55.500922
+437,Progne subis,Sooretama,ES,14,1,2018,Espírito Santo,-19.19194963,-40.09649081
+438,NID,Sorriso,MT,15,10,2017,Mato Grosso,-12.55177671,-55.72591368
+439,Progne elegans,Tefé,AM,16,9,2011,Amazonas,-3.348372494,-64.70841966
+440,Progne elegans,Tefé,AM,16,9,2011,Amazonas,-3.348372494,-64.70841966
+441,Progne elegans,Tefé,AM,21,7,2007,Amazonas,-3.348372494,-64.70841966
+442,NID,Trindade,PE,18,1,2013,Pernambuco,-7.761794626,-40.26559061
+443,NID,Triunfo,PE,7,5,2017,Pernambuco,-7.830876359,-38.10706034
+444,NID,Uberaba,MG,13,10,2017,Minas Gerais,-19.71353461,-47.9836249
+445,NID,Uberaba,MG,16,10,2017,Minas Gerais,-19.71353461,-47.9836249
+446,NID,Uberaba,MG,16,10,2017,Minas Gerais,-19.71353461,-47.9836249
+447,Progne subis,Una,BA,14,2,2009,Bahia,-15.29420806,-39.07471289
+448,Progne subis,Uruçuca,BA,31,3,2018,Bahia,-14.59203545,-39.28380188
+449,Progne subis,Uruçuca,BA,31,3,2018,Bahia,-14.59203545,-39.28380188
+450,Progne subis,Uruçuca,BA,10,3,2013,Bahia,-14.59203545,-39.28380188
+451,NID,Valença,RJ,7,9,2017,Rio de Janeiro,-22.24471943,-43.70484368
+452,Pygochelidon cyanoleuca,Vargem Bonita,MG,3,10,2014,Minas Gerais,-20.32677665,-46.37245698
+453,NID,Vila Velha,ES,11,11,2007,Espírito Santo,-20.3383741,-40.29395664
+454,NID,Vila Velha,ES,5,2,2016,Espírito Santo,-20.3383741,-40.29395664
+455,NID,Vila Velha,ES,22,1,2017,Espírito Santo,-20.3383741,-40.29395664
+456,Progne subis,Vila Velha,ES,8,2,2016,Espírito Santo,-20.3383741,-40.29395664
+457,NID,Vila Velha,ES,5,2,2016,Espírito Santo,-20.3383741,-40.29395664
+458,Progne subis,Vila Velha,ES,5,2,2016,Espírito Santo,-20.3383741,-40.29395664
+459,Progne subis,Vila Velha,ES,5,2,2016,Espírito Santo,-20.3383741,-40.29395664
+460,NID,Vitória,ES,2,11,2010,Espírito Santo,-20.32015379,-40.32220873
+461,NID,Vitória,ES,12,1,2010,Espírito Santo,-20.32015379,-40.32220873
+462,NID,Conceição da Barra,ES,15,11,2018,Espírito Santo,-18.5984623,-39.72747442
+463,NID,Sinop,MT,17,11,2018,Mato Grosso,-11.85800531,-55.500922
+464,NID,São Gabriel Da Cachoeira,AM,19,10,2018,Amazonas,-0.13646279,-67.0836429
+465,NID,Alta Floresta,MT,20,11,2018,Mato Grosso,-9.8717226,-56.09161044
+466,NID,Jacareacanga,PA,24,11,2018,Pará,-6.22355173,-57.76633986
+467,NID,Paranaíta,MT,4,12,2018,Mato Grosso,-9.6696555,-56.47889972
+468,NID,Formiga,MG,24,12,2018,Minas Gerais,-20.46488355,-45.42642818
+469,Progne subis,Macaé,RJ,1,1,2019,Rio de Janeiro,-22.36870497,-41.77506429
+470,Progne subis,Macaé,RJ,5,1,2019,Rio de Janeiro,-22.36870497,-41.77506429
+471,NID,Apucarana,PR,17,10,2018,Paraná,-23.55159299,-51.45998514
+472,Progne subis,Barbalha,CE,19,1,2019,Ceará,-7.30717213,-39.30231637
+473,Progne subis,Barbalha,CE,19,1,2019,Ceará,-7.30717213,-39.30231637
+474,Progne subis,Belmonte,BA,27,3,2007,Bahia,-15.86139649,-38.88030324
+475,NID,Porto Velho,RO,30,10,2018,Rondônia,-8.76889179,-63.83144565
+476,NID,Porto Velho,RO,30,10,2018,Rondônia,-8.76889179,-63.83144565
+477,NID,Porto Velho,RO,30,10,2018,Rondônia,-8.76889179,-63.83144565
+478,NID,Porto Velho,RO,30,10,2018,Rondônia,-8.76889179,-63.83144565
+479,NID,Porto Velho,RO,30,10,2018,Rondônia,-8.76889179,-63.83144565
+480,NID,Porto Velho,RO,30,10,2018,Rondônia,-8.76889179,-63.83144565
+481,NID,Porto Velho,RO,30,10,2018,Rondônia,-8.76889179,-63.83144565
+482,NID,Januária,MG,14,11,2018,Minas Gerais,-15.48787281,-44.35980533
+483,NID,Luís Eduardo Magalhães,BA,23,12,2018,Bahia,-12.07837226,-45.80046441
+484,NID,Mazagão,AP,30,12,2018,Amapá,-0.12439633,-51.28607686
+485,Progne subis,Macaé,RJ,1,1,2019,Rio de Janeiro,-22.36870497,-41.77506429
+486,Progne subis,Macaé,RJ,1,1,2019,Rio de Janeiro,-22.36870497,-41.77506429
+487,NID,Macaé,RJ,1,1,2019,Rio de Janeiro,-22.36870497,-41.77506429
+488,Progne subis,Macaé,RJ,1,1,2019,Rio de Janeiro,-22.36870497,-41.77506429
+489,NID,Macaé,RJ,1,1,2019,Rio de Janeiro,-22.36870497,-41.77506429
+490,Progne subis,Boa Esperança do Sul,SP,3,1,2019,São Paulo,-21.99248416,-48.39059691
+491,Progne subis,Rio das Ostras,RJ,4,1,2019,Rio de Janeiro,-22.52394119,-41.93696713
+492,,Macaé,RJ,5,1,2019,Rio de Janeiro,-22.36870497,-41.77506429
+493,,Porto Seguro,BA,5,1,2019,Bahia,-16.44905618,-39.06211352
+494,NID,Araripe,CE,6,1,2019,Ceará,-7.20618379,-40.13744581
+495,,Araripe,CE,6,1,2019,Ceará,-7.20618379,-40.13744581
+496,,Jaborandi,SP,6,1,2019,São Paulo,-13.625934,-44.46596999
+497,,Macaé,RJ,9,1,2019,Rio de Janeiro,-22.36870497,-41.77506429
+498,,Macaé,RJ,9,1,2019,Rio de Janeiro,-22.36870497,-41.77506429
+499,,Macaé,RJ,9,1,2019,Rio de Janeiro,-22.36870497,-41.77506429
+500,,Macaé,RJ,9,1,2019,Rio de Janeiro,-22.36870497,-41.77506429
+501,,Iranduba,AM,15,1,2019,Amazonas,-3.28105388,-60.19338817
+502,,Iranduba,AM,15,1,2019,Amazonas,-3.28105388,-60.19338817
+503,Progne subis,Belém,PA,31,10,1960,Pará,-1.459845,-48.48782569
+504,Progne subis,Belém,PA,30,3,1967,Pará,-1.459845,-48.48782569
+505,Progne subis,Essex Co.,Virgínia,30,8,1884,Virginia,,
+506,Progne subis,Lawrence,Kansas,22,8,1907,Kansas,,
+507,Progne subis,New Orleans,Louisiana,11,9,1935,Louisiana,,
+508,Progne subis,Iquitos,Loreto,15,9,1978,Loreto,,
+509,Progne subis,Belterra,PA,14,10,1932,Pará,-2.64902017,-54.94267474
+510,Progne subis,Portel,PA,23,12,1939,Pará,-1.936451,-50.82249044
+511,Progne subis,São Félix do Xingu,PA,31,4,1958,Pará,-6.64248328,-51.99378252
+512,Progne subis,Atalaia do Norte,AM,31,11,1960,Amazonas,-4.36615749,-70.18798928
+513,Progne subis,São Félix do Xingu,PA,5,4,1958,Pará,-6.64248328,-51.99378252
+514,Progne subis,São Félix do Xingu,PA,5,4,1958,Pará,-6.64248328,-51.99378252
+515,Progne subis,São Félix do Xingu,PA,5,4,1958,Pará,-6.64248328,-51.99378252
+516,Progne subis,Aragarças,GO,20,6,1958,Goiás,-15.89776817,-52.24685473
+517,Progne subis,Golf Port,Mississipi,24,2,1940,Mississipi,,
+518,Progne subis,New York,New York,14,8,1910,New York,,
+519,Progne subis,Belém,PA,17,12,1986,Pará,-1.459845,-48.48782569
+520,Progne subis,Belém,PA,22,3,1989,Pará,-1.459845,-48.48782569
+521,Progne subis,Manaus,AM,20,5,1998,Amazonas,-3.13469149,-60.02333518
+522,Progne subis,Juruti,PA,17,9,2002,Pará,-2.155253,-56.09499769
+523,Progne subis,Humaitá,AM,17,10,1991,Amazonas,-7.51222495,-63.02669802
+524,Progne subis,Manaus,AM,26,8,1996,Amazonas,-3.13469149,-60.02333518
+525,Progne subis,Manaus,AM,26,8,1996,Amazonas,-3.13469149,-60.02333518
+526,Progne subis,Manaus,AM,9,12,1997,Amazonas,-3.13469149,-60.02333518
+527,Progne subis,Manaus,AM,9,12,1997,Amazonas,-3.13469149,-60.02333518
+528,Progne subis,Manaus,AM,9,12,1997,Amazonas,-3.13469149,-60.02333518
+529,Progne subis,Manaus,AM,9,12,1997,Amazonas,-3.13469149,-60.02333518
+530,Progne subis,Manaus,AM,26,2,1998,Amazonas,-3.13469149,-60.02333518
+531,Progne subis,Manaus,AM,26,2,1998,Amazonas,-3.13469149,-60.02333518
+532,Progne subis,Manaus,AM,30,5,1998,Amazonas,-3.13469149,-60.02333518
+533,Progne subis,Marabá,PA,28,2,2009,Pará,-5.35260576,-49.14202533
+534,Progne subis,Marabá,PA,11,12,2009,Pará,-5.35260576,-49.14202533
+535,Progne subis,Marabá,PA,1,12,2009,Pará,-5.35260576,-49.14202533
+536,Progne subis,Marabá,PA,13,4,2009,Pará,-5.35260576,-49.14202533
+537,Progne subis,Marabá,PA,13,4,2009,Pará,-5.35260576,-49.14202533
+538,Progne subis,Conceição da Barra,ES,22,12,1972,Espírito Santo,-18.5984623,-39.72747442
+539,Progne subis,Conceição da Barra,ES,22,12,1972,Espírito Santo,-18.5984623,-39.72747442
+540,Progne subis,Conceição da Barra,ES,22,12,1972,Espírito Santo,-18.5984623,-39.72747442
+541,Progne subis,Linhares,ES,16,12,1970,Espírito Santo,-19.39810593,-40.0653058
+542,Progne subis,Conceição da Barra,ES,22,12,1970,Espírito Santo,-18.5984623,-39.72747442
+543,Progne subis,Linhares,ES,16,12,1970,Espírito Santo,-19.39810593,-40.0653058
+544,Progne subis,Conceição da Barra,ES,22,12,1972,Espírito Santo,-18.5984623,-39.72747442
+545,Progne subis,Linhares,ES,4,4,2005,Espírito Santo,-19.39810593,-40.0653058
+546,Progne subis,São José do Rio Preto,SP,1,12,1983,São Paulo,-20.8126365,-49.38134769
+547,Progne subis,São José do Rio Preto,SP,2,1,1984,São Paulo,-20.8126365,-49.38134769
+548,Progne subis,São José do Rio Preto,SP,6,3,1984,São Paulo,-20.8126365,-49.38134769
+549,Progne subis,São José do Rio Preto,SP,2,1,1984,São Paulo,-20.8126365,-49.38134769
+550,Progne subis,São José do Rio Preto,SP,1,12,1983,São Paulo,-20.8126365,-49.38134769
+551,Progne subis,São José do Rio Preto,SP,1,12,1983,São Paulo,-20.8126365,-49.38134769
+552,Progne subis,São José do Rio Preto,SP,2,1,1984,São Paulo,-20.8126365,-49.38134769
+553,Progne subis,,AM,17,10,1925,Amazonas,,
+554,Progne subis,,AM,20,10,1925,Amazonas,,
+555,Progne subis,,AM,26,9,1925,Amazonas,,
+556,Progne subis,,AM,26,9,1925,Amazonas,,
+557,Progne subis,,PA,23,12,1919,Pará,,
+558,Progne subis,,AM,26,9,1925,Amazonas,,
+559,Progne subis,,AM,17,10,1925,Amazonas,,
+560,Progne subis,,AM,18,10,1925,Amazonas,,
+561,Progne subis,Exu,PE,17,12,1973,Pernambuco,-7.516307,-39.72272834
+562,Progne subis,Búzios,RJ,4,5,1975,Rio de Janeiro,,
+563,Progne subis,Cáceres,MT,9,2,1986,Mato Grosso,-16.07409563,-57.67476231
+564,Progne subis,Altos,PI,7,3,1998,Piauí,-5.03654643,-42.46094804
+565,Progne subis,Vilhena,RO,24,9,2014,Rondônia,-12.74137347,-60.13858387
+566,Pygochelidon cyanoleuca,Porto Alegre,RS,11,1,1977,Rio Grande do Sul,-30.03003677,-51.22866046
+567,Pygochelidon cyanoleuca,Porto Alegre,RS,27,10,1977,Rio Grande do Sul,-30.03003677,-51.22866046
+568,Progne chalybea,Gravataí,RS,31,10,1976,Rio Grande do Sul,-29.94551891,-50.99079297
+569,Progne subis,Araçatuba,SP,26,1,2004,São Paulo,-21.205476,-50.43922607
+570,Progne subis,Rinópolis,SP,26,1,2004,São Paulo,-21.727891,-50.72483832
+571,Progne subis,Novo Horizonte,SP,23,1,2004,São Paulo,-12.80199736,-42.16778845
+572,Progne subis,Barbalha,CE,19,1,2019,Ceará,-7.30717213,-39.30231637
+573,Progne subis,Barbalha,CE,19,1,2019,Ceará,-7.30717213,-39.30231637
+574,Progne subis,Luís Eduardo Magalhães,BA,9,2,2019,Bahia,-12.07837226,-45.80046441
+575,Progne subis,Conceição da Barra,ES,14,2,2019,Espírito Santo,-18.5984623,-39.72747442
+576,Progne subis,Conceição da Barra,ES,14,2,2019,Espírito Santo,-18.5984623,-39.72747442
+577,Progne subis,Conceição da Barra,ES,14,2,2019,Espírito Santo,-18.5984623,-39.72747442
+578,Progne subis,Três Lagoas,MS,18,2,2019,Mato Grosso do Sul,-20.78867916,-51.71000063
+579,Progne subis,Canaã dos Carajás,PA,19,2,2019,Pará,-6.53219662,-49.84895843
+580,Progne subis,Canaã dos Carajás,PA,20,2,2019,Pará,-6.53219662,-49.84895843
+581,Progne subis,Exu,PE,3,2,2001,Pernambuco,-7.516307,-39.72272834
+582,Progne subis,Exu,PE,4,2,2002,Pernambuco,-7.516307,-39.72272834
+583,Progne subis,Exu,PE,9,2,2003,Pernambuco,-7.516307,-39.72272834
+584,Progne subis,Exu,PE,13,4,2003,Pernambuco,-7.516307,-39.72272834
+585,Progne subis,Exu,PE,16,1,2005,Pernambuco,-7.516307,-39.72272834
+586,Progne subis,Caseara,TO,13,12,2006,Tocantins,-9.26740622,-49.94869227
+587,Progne subis,Poconé,MT,17,12,1983,Mato Grosso,-16.25950947,-56.62650935
+588,Progne Subis,Guatapará,SP,8,3,2019,São Paulo,-21.49189465,-48.03772936
+589,Progne Subis,Guatapará,SP,4,3,2019,São Paulo,-21.49189465,-48.03772936
+590,Progne subis,Campo Grande,MS,14,3,2019,Mato Grosso do Sul,-9.9569226,-36.79084005
+591,Progne subis,Três Lagoas,MS,23,2,2019,Mato Grosso do Sul,-20.78867916,-51.71000063
+592,NID,Domingos Martins,ES,16,2,2019,Espírito Santo,-20.36423852,-40.65939635
+593,NID,Domingos Martins,ES,16,2,2019,Espírito Santo,-20.36423852,-40.65939635
+594,Progne subis,Luís Eduardo Magalhães,BA,9,2,2019,Bahia,-12.07837226,-45.80046441
+595,Progne subis,Luís Eduardo Magalhães,BA,9,2,2019,Bahia,-12.07837226,-45.80046441
+596,Progne subis,Luís Eduardo Magalhães,BA,9,2,2019,Bahia,-12.07837226,-45.80046441
+597,Progne subis,Manaus,AM,4,3,2019,Amazonas,-3.13469149,-60.02333518
+598,Progne subis,Manaus,AM,4,3,2019,Amazonas,-3.13469149,-60.02333518
+599,Progne subis,Guatapará,SP,4,3,2019,São Paulo,-21.49189465,-48.03772936
+600,Progne subis,Guatapará,SP,4,3,2019,São Paulo,-21.49189465,-48.03772936
+601,Progne subis,Guatapará,SP,4,3,2019,São Paulo,-21.49189465,-48.03772936
+602,Progne subis,Porto Seguro,BA,3,3,2019,Bahia,-16.44905618,-39.06211352
+603,Progne subis,Guatapará,SP,8,3,2019,São Paulo,-21.49189465,-48.03772936
+604,Progne subis,Jaborandi,SP,10,3,2019,São Paulo,-13.625934,-44.46596999
+605,,Guatapará,SP,12,3,2019,São Paulo,-21.49189465,-48.03772936
+606,,Guatapará,SP,12,3,2019,São Paulo,-21.49189465,-48.03772936
+607,NID,Rio das Ostras,RJ,10,3,2019,Rio de Janeiro,-22.52394119,-41.93696713
+608,NID,Guatapará,SP,8,3,2019,São Paulo,-21.49189465,-48.03772936
+609,,Guatapará,SP,8,3,2019,São Paulo,-21.49189465,-48.03772936
+610,,,,,,,,,
+611,,,,,,,,,
+612,,,,,,,,,
+613,,,,,,,,,
+614,,,,,,,,,
+615,,,,,,,,,
+616,,,,,,,,,
+617,,,,,,,,,
+618,,,,,,,,,
+619,,,,,,,,,
+620,,,,,,,,,
+621,,,,,,,,,
+622,,,,,,,,,
+623,,,,,,,,,
+624,,,,,,,,,
+625,,,,,,,,,
+626,,,,,,,,,
+627,,,,,,,,,
+628,,,,,,,,,
+629,,,,,,,,,
+630,,,,,,,,,
+631,,,,,,,,,
+632,,,,,,,,,
+633,,,,,,,,,
+634,,,,,,,,,
+635,,,,,,,,,
+636,,,,,,,,,
+637,,,,,,,,,
+638,,,,,,,,,
+639,,,,,,,,,
+640,,,,,,,,,
+641,,,,,,,,,
+642,,,,,,,,,
+643,,,,,,,,,
+644,,,,,,,,,
+645,,,,,,,,,
+646,,,,,,,,,
+647,,,,,,,,,
+648,,,,,,,,,
+649,,,,,,,,,
+650,,,,,,,,,
+651,,,,,,,,,
+652,,,,,,,,,
+653,,,,,,,,,
+654,,,,,,,,,
+655,,,,,,,,,
+656,,,,,,,,,
+657,,,,,,,,,
+658,,,,,,,,,
+659,,,,,,,,,
+660,,,,,,,,,
+661,,,,,,,,,
+662,,,,,,,,,
+663,,,,,,,,,
+664,,,,,,,,,
+665,,,,,,,,,
+666,,,,,,,,,
+667,,,,,,,,,
+668,,,,,,,,,
+669,,,,,,,,,
+670,,,,,,,,,
+671,,,,,,,,,
+672,,,,,,,,,
+673,,,,,,,,,
+674,,,,,,,,,
+675,,,,,,,,,
+676,,,,,,,,,
+677,,,,,,,,,
+678,,,,,,,,,
+679,,,,,,,,,
+680,,,,,,,,,
+681,,,,,,,,,
+682,,,,,,,,,
+683,,,,,,,,,
+684,,,,,,,,,
+685,,,,,,,,,
+686,,,,,,,,,
+687,,,,,,,,,
+688,,,,,,,,,
+689,,,,,,,,,
+690,,,,,,,,,
+691,,,,,,,,,
+692,,,,,,,,,
+693,,,,,,,,,
+694,,,,,,,,,
+695,,,,,,,,,
+696,,,,,,,,,
+697,,,,,,,,,
+698,,,,,,,,,
+699,,,,,,,,,
+700,,,,,,,,,
+701,,,,,,,,,
+702,,,,,,,,,
+703,,,,,,,,,
+704,,,,,,,,,
+705,,,,,,,,,
+706,,,,,,,,,
+707,,,,,,,,,
+708,,,,,,,,,
+709,,,,,,,,,
+710,,,,,,,,,
+711,,,,,,,,,
+712,,,,,,,,,
+713,,,,,,,,,
+714,,,,,,,,,
+715,,,,,,,,,
+716,,,,,,,,,
+717,,,,,,,,,
+718,,,,,,,,,
+719,,,,,,,,,
+720,,,,,,,,,
+721,,,,,,,,,
+722,,,,,,,,,
+723,,,,,,,,,
+724,,,,,,,,,
+725,,,,,,,,,
+726,,,,,,,,,
+727,,,,,,,,,
+728,,,,,,,,,
+729,,,,,,,,,
+730,,,,,,,,,
+731,,,,,,,,,
+732,,,,,,,,,
+733,,,,,,,,,
+734,,,,,,,,,
+735,,,,,,,,,
+736,,,,,,,,,
+737,,,,,,,,,
+738,,,,,,,,,
+739,,,,,,,,,
+740,,,,,,,,,
+741,,,,,,,,,
+742,,,,,,,,,
+743,,,,,,,,,
+744,,,,,,,,,
+745,,,,,,,,,
+746,,,,,,,,,
+747,,,,,,,,,
+748,,,,,,,,,
+749,,,,,,,,,
+750,,,,,,,,,
+751,,,,,,,,,
+752,,,,,,,,,
+753,,,,,,,,,
+754,,,,,,,,,
+755,,,,,,,,,
+756,,,,,,,,,
+757,,,,,,,,,
+758,,,,,,,,,
+759,,,,,,,,,
+760,,,,,,,,,
+761,,,,,,,,,
+762,,,,,,,,,
+763,,,,,,,,,
+764,,,,,,,,,
+765,,,,,,,,,
+766,,,,,,,,,
+767,,,,,,,,,
+768,,,,,,,,,
+769,,,,,,,,,
+770,,,,,,,,,
+771,,,,,,,,,
+772,,,,,,,,,
+773,,,,,,,,,
+774,,,,,,,,,
+775,,,,,,,,,
+776,,,,,,,,,
+777,,,,,,,,,
+778,,,,,,,,,
+779,,,,,,,,,
+780,,,,,,,,,
+781,,,,,,,,,
